@@ -4,8 +4,15 @@
 
 ---
 
-### Clash 等代理分流助手说明：
-名单中的域名直接连接，不启用代理；其余域名流量遵循 Clash 等配置规则分流。本工具使用 Clash 的目的仅为访问 Codex、ChatGPT 等人工智能相关服务。本人及任何使用者，必须将相关使用场景限定在科学研究或学业范畴内，仅允许用于实验设计、代码优化以及文本润色。
+ ## ⚠️ 使用声明 / Usage Notice（请务必阅读 / Please read before use）
+>
+> **中文**
+>
+> Clash 代理分流助手说明：名单中的域名直接连接，不启用代理；其余域名流量遵循 Clash 配置规则分流。本工具使用 Clash 的目的仅为访问 Codex、ChatGPT 等人工智能相关服务。本人及任何使用者，必须将相关使用场景限定在科学研究或学业范畴内，仅允许用于实验设计、代码优化以及文本润色。
+>
+> **English**
+>
+> Clash proxy routing assistant: domains on the list connect directly with no proxy enabled; traffic to all other domains follows the routing rules configured in Clash. This tool uses Clash solely to access AI-related services such as Codex and ChatGPT. The author and every user of this tool must confine its use to scientific research or academic study, and only for experiment design, code optimization, and text polishing.
 
 ---
 
